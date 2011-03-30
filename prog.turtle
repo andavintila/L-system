@@ -1,0 +1,4377 @@
+variables
+endvar
+
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+turn -60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn 60
+forward
+turn -60
+forward
+turn -60
+forward
+done
