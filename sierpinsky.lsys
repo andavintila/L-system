@@ -1,0 +1,7 @@
+Variables: A B
+Constants: + -
+Start: A
+Depth: 8
+Rules:
+A = B-A-B
+B = A+B+A

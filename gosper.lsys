@@ -1,0 +1,9 @@
+Variables: X Y S A
+Constants: + - F t W B
+Start: S
+Depth: 6
+Rules:
+S = WAAAtAAAAAAAABXF
+X = X+YF++YF-FX--FXFX-YF+
+Y = -FX+YFYF++YF+FX--FX-Y
+A = FFF

@@ -1,0 +1,4 @@
+A = forward
+B = forward
++ = turn 60
+- = turn -60

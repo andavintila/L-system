@@ -1,0 +1,9 @@
+X = turn 0
+Y = turn 0
+F = forward
++ = turn 60
+- = turn -60
+t = turn -90
+W = color FFFFFF
+B = color 000000
+

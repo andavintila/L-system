@@ -1,0 +1,7 @@
+Variables: F
+Constants: + -
+Start: F
+Depth: 5
+Rules:
+F = F+F-F-F+F
+
